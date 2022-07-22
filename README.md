@@ -8,12 +8,8 @@ Just have to clone the repository or download the zip version and then open inde
 
 ## Authors
 
-- [Sivasangari](https://github.com/sivasangari03-G)
-- [Mitesh Sharma](https://github.com/ms00110011)
-- [Vijit Singh](https://github.com/mjsvijit)
-- [Mohammad Shaik](https://github.com/mohammad2407)
- 
- Now visit the deployed site : "https://vacation-travel.herokuapp.com/"
+- [Rishabh Singh Parmar](https://github.com/singhparmarishabh)
+
  
  ## Features
 
