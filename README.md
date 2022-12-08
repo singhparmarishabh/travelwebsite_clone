@@ -1,7 +1,7 @@
 
-# Vacation - Travel Website
+# vacationnow - Travel Website
 
-Vacation-Travel Website is a web application that allows users to book Travel packages to enjoy sightseeing in a new destination.
+vacationnow-Travel Website is a web application that allows users to book Travel packages to enjoy sightseeing in a new destination.
 
 ## How to run project locally?
 Just have to clone the repository or download the zip version and then open index.html file with any browser.
